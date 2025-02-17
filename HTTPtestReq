@@ -1,0 +1,7 @@
+POST / HTTP/1.1
+Host: echo.free.beeceptor.com
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Content-Length: 62
+
+username=STRND04&password=9c67fb25-dd24-11ee-a513-0242ac170016
